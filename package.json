@@ -17,10 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Smotherer007/pi-teams.git"
+    "url": "https://github.com/patimweb-agents/pi-teams.git"
   },
   "bugs": {
-    "url": "https://github.com/Smotherer007/pi-teams/issues"
+    "url": "https://github.com/patimweb-agents/pi-teams/issues"
   },
   "scripts": {
     "build": "echo 'No build step defined'",
